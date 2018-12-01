@@ -1,12 +1,3 @@
 # react-router-4-example
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and it's the sample project of a beginners guide to [React Router DOM](https://reacttraining.com/react-router/web/guides/philosophy).
 
-You can read the guide on [LogRocket's blog](https://blog.logrocket.com/) (not yet published).
-
-## Instructions 
-1. Clone this project.
-2. Install the dependencies with `npm install`.
-3. Execute `npm start` to run the application.
-
-## License
-MIT
+![image](https://user-images.githubusercontent.com/4640346/49325059-03e82f80-f57f-11e8-9376-1c33b5f766be.png)
